@@ -1,3 +1,2 @@
 #!/bin/bash
-#A script to display my current working directory
 pwd
